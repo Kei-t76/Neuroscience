@@ -1,9 +1,8 @@
----
 ## Neuroscience
 
-## neuron and synapse model
+## Welcome to my memorandum
+Here I save neuron and synapse model with these features and usability
 
-Welcome to my memorandum
 
 ## bibliography
 
