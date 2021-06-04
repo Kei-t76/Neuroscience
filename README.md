@@ -1,13 +1,12 @@
 ---
 title: Neuroscience
-date: 2019-02-07
 ---
 
 ## neuron and synapse model
 
 Welcome to my memorandum
 
-## Useful links
+## bibliography
 
-- Website: https://gitpress.io
-- Getting Started: https://gitpress.io/c/help/welcome
+- A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE
+- The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
